@@ -1,4 +1,7 @@
 # RobotControls
+Non-Linear Controls Class 
+Fall 2019
+
 
 ![1 4 Ts div 4 Trajectory](https://user-images.githubusercontent.com/50337861/139609685-353d0bf9-ca27-439b-b05c-ebcf7f6da503.png)
 
